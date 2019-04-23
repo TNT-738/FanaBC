@@ -1,9 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="tigri_home">ዋና</string>
-    <string name="tigri_news">ዜና</string>
-    <string name="tigri_business">ቢዝነስ</string>
-    <string name="tigri_sport">ስፖርት</string>
-    <string name="tigri_world">አለም ዜና</string>
-    <string name="tigri_tech">ቴክኖሎጂ</string>
-</resources>
+<resources></resources>

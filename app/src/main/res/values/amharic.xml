@@ -1,10 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="amh_home">ዋና</string>
-    <string name="amh_news">ዜና</string>
-    <string name="amh_business">ቢዝነስ</string>
-    <string name="amh_sport">ስፖርት</string>
-    <string name="amh_world">አለም ዜና</string>
-    <string name="amh_tech">ቴክኖሎጂ</string>
-    <string name="amh_health">ጤና</string>
-</resources>
+<resources></resources>
