@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:title="@string/nav_home" />
+        <item
+            android:id="@+id/ethiopia_news"
+            android:title="@string/nav_news" />
+        <item
+            android:id="@+id/business_news"
+            android:title="@string/nav_business" />
+        <item
+            android:id="@+id/sport"
+            android:title="@string/nav_sport" />
+
+    </group>
+
+
+    <group android:id="@+id/additionals">
+        <item
+            android:id="@+id/world"
+            android:title="@string/nav_world" />
+        <item
+            android:id="@+id/tech"
+            android:title="@string/nav_tech" />
+        <item
+            android:id="@+id/videos"
+            android:title="@string/nav_videos" />
+        <item
+            android:id="@+id/health"
+            android:title="@string/nav_health"/>
+
+    </group>
+
+
+
+    <item android:title="@string/nav_languages">
+        <menu>
+            <item
+                android:id="@+id/amh_language"
+                android:title="@string/nav_amharic" />
+            <item
+                android:id="@+id/eng_language"
+                android:title="@string/nav_english" />
+            <item
+                android:id="@+id/oro_language"
+                android:title="@string/nav_afan_oromo" />
+            <item
+                android:id="@+id/tigri_language"
+                android:title="@string/nav_tigrigna" />
+        </menu>
+    </item>
+
+</menu>

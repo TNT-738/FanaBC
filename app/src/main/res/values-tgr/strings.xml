@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Fana BC</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="large_text">when a user tries to pick up one of cards.</string>
+
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">በህይዎት ፍትነት!</string>
+
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="audio_text">Audio</string>
+
+    <string name="error_text_view">ትሕዝቶ ምጽዓን ኣይከኣለን!\nበጃኻ ዳግም ፈትን!</string>
+    <string name="try_again">እንደገና ፈትን</string>
+    <string name="video_text">ቪድዮ</string>
+    <string name="var_home">ዋና</string>
+    <string name="var_news">ዜና</string>
+    <string name="var_business">ንግዲ</string>
+    <string name="var_sport">ስፖርት</string>
+    <string name="var_world">ዓለም</string>
+    <string name="var_tech">ቴክ</string>
+    <string name="var_video">ቪድዮ</string>
+    <string name="var_health">ጥዕና</string>
+    <string name="nav_home">ዋና</string>
+    <string name="nav_news">ኢትዮጵያ ዜና</string>
+    <string name="nav_business">ንግዲ ዜና</string>
+    <string name="nav_sport">ስፖርት</string>
+    <string name="nav_world">ዓለም</string>
+    <string name="nav_tech">ቴክ</string>
+    <string name="nav_videos">ቪድዮ</string>
+    <string name="nav_health">ጥዕና</string>
+    <string name="nav_languages">ቋንቋታት</string>
+    <string name="nav_amharic">አማርኛ</string>
+    <string name="nav_english">English</string>
+    <string name="nav_afan_oromo">Afan Oromo</string>
+    <string name="nav_tigrigna">ትግርኛ</string>
+    <string name="about">About</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="afan_home">HOME</string>
+    <string name="afan_news">ODUU</string>
+    <string name="afan_business">BIIZNASII</string>
+    <string name="afan_sport">ISPOORTII</string>
+    <string name="afan_world">Idil Addunyaa</string>
+    <string name="afan_tech">TEEKNOOLOOJII</string>
+</resources>

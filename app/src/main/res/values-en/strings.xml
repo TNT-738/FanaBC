@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Fana BC</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="large_text">when a user tries to pick up one of cards.</string>
+
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">በህይዎት ፍትነት!</string>
+
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="audio_text">Audio</string>
+
+    <string name="error_text_view">Unable to load content!\nPlease Try Again!</string>
+    <string name="try_again">Try Again</string>
+    <string name="video_text">Video</string>
+    <string name="var_home">HOME</string>
+    <string name="var_news">NEWS</string>
+    <string name="var_business">BUSINESS</string>
+    <string name="var_sport">SPORT</string>
+    <string name="var_world">WORLD</string>
+    <string name="var_tech">TECH</string>
+    <string name="var_video">VIDEO</string>
+    <string name="var_health">HEALTH</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_news">Ethiopia News</string>
+    <string name="nav_business">Business News</string>
+    <string name="nav_sport">Sport</string>
+    <string name="nav_world">World</string>
+    <string name="nav_tech">Tech</string>
+    <string name="nav_videos">Videos</string>
+    <string name="nav_health">Health</string>
+    <string name="nav_languages">Languages</string>
+    <string name="nav_amharic">Amharic</string>
+    <string name="nav_english">English</string>
+    <string name="nav_afan_oromo">Afan Oromo</string>
+    <string name="nav_tigrigna">Tigrigna</string>
+    <string name="about">About</string>
+</resources>

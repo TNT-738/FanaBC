@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Fana BC</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="large_text">when a user tries to pick up one of cards.</string>
+
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">በህይዎት ፍትነት!</string>
+
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="audio_text">Audio</string>
+
+    <string name="error_text_view">ይዘት መጫን አልተቻለም!\nእባክዎ ዳግም ይሞክሩ!</string>
+    <string name="try_again">ድጋሚ ሞክር</string>
+    <string name="video_text"><b>ቪድዮ</b></string>
+    <string name="var_home"><b>መነሻ</b></string>
+    <string name="var_news"><b>ዜና</b></string>
+    <string name="var_business"><b>ንግድ</b></string>
+    <string name="var_sport"><b>ስፖርት</b></string>
+    <string name="var_world"><b>አለም አቀፍ</b></string>
+    <string name="var_tech"><b>ቴክ</b></string>
+    <string name="var_video"><b>ቪድዮ</b></string>
+    <string name="var_health"><b>ጤና</b></string>
+    <string name="nav_home"><b>መነሻ</b></string>
+    <string name="nav_news"><b>ዜና</b></string>
+    <string name="nav_business"><b>ንግድ</b></string>
+    <string name="nav_sport"><b>ስፖርት</b></string>
+    <string name="nav_world"><b>አለም አቀፍ</b></string>
+    <string name="nav_tech"><b>ቴክ</b></string>
+    <string name="nav_videos"><b>ቪድዮ</b></string>
+    <string name="nav_health"><b>ጤና</b></string>
+    <string name="nav_languages"><b>ቋንቋዎች</b></string>
+    <string name="nav_amharic"><b>አማርኛ</b></string>
+    <string name="nav_english"><b>English</b></string>
+    <string name="nav_afan_oromo"><b>Afan Oromo</b></string>
+    <string name="nav_tigrigna"><b>ትግርኛ</b></string>
+    <string name="about">About</string>
+</resources>

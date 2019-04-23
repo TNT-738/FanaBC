@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Fana BC</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="large_text">when a user tries to pick up one of cards.</string>
+
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">በህይዎት ፍትነት!</string>
+
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="audio_text">Audio</string>
+
+    <string name="error_text_view">QOPEFFACHU HIN DANDA\'AMNE</string>
+    <string name="try_again">DEEBISTANII YAALA</string>
+    <string name="video_text">VIDIYOO</string>
+    <string name="var_home">FUULA DURAA</string>
+    <string name="var_news">ODUU</string>
+    <string name="var_business">BIIZNASII</string>
+    <string name="var_sport">ISPOORTII</string>
+    <string name="var_world">ADDUNYA</string>
+    <string name="var_tech">TEEKNOOLOOJII</string>
+    <string name="var_video">VIDIYOO</string>
+    <string name="var_health">FAYYAA</string>
+    <string name="nav_home">FUULA DURAA</string>
+    <string name="nav_news">ODUU</string>
+    <string name="nav_business">BIIZNASII</string>
+    <string name="nav_sport">ISPOORTII</string>
+    <string name="nav_world">ADDUNYA</string>
+    <string name="nav_tech">TEEKNOOLOOJII</string>
+    <string name="nav_videos">VIDIYOO</string>
+    <string name="nav_health">FAYYAA</string>
+    <string name="nav_languages">Afan</string>
+    <string name="nav_amharic">አማርኛ</string>
+    <string name="nav_english">English</string>
+    <string name="nav_afan_oromo">Afan Oromo</string>
+    <string name="nav_tigrigna">ትግርኛ</string>
+    <string name="about">About</string>
+</resources>

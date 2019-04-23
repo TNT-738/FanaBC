@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="eng_home">HOME</string>
+    <string name="eng_news">NEWS</string>
+    <string name="eng_business">BUSINESS</string>
+    <string name="eng_sport">SPORT</string>
+    <string name="eng_world">WORLD</string>
+    <string name="eng_tech">TECH</string>
+</resources>
